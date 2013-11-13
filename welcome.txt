@@ -1,2 +1,1 @@
-hello.s
-nice to meet you too!
+hello.nice to meet you!
